@@ -1,0 +1,2 @@
+# shell_of_mysql_load_txt
+将excel表格进行转码成Unicode.txt，上传ftp后自动加载到mysql
